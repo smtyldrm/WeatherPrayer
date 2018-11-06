@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather Prayer</string>
+    <string name="search_title">Şehir Ara</string>
+    <string name="app_id">d0f0b3abdba68b412555a6651a304d99</string>
+    <string-array name="spinner_sehir">
+        <item>Konum Seçin</item>
+        <item>İstanbul</item>
+        <item>Ankara</item>
+        <item>İzmir</item>
+        <item>Kayseri</item>
+        <item>İskenderun</item>
+        <item>London</item>
+        <item>Madrid</item>
+        <item>Munich</item>
+        <item>New York</item>
+        <item>Rio</item>
+
+    </string-array>
+</resources>
